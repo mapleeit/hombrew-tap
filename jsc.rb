@@ -6,6 +6,6 @@ class Jsc < Formula
   sha256 "7aac215d7c217b97435547028807b21248d8757d2261939be78b0898a23e31c7"
 
   def install
-    prefix.install Dir["jsc/*"]
+    bin.install "jsc/bin/jsc"
   end
 end
