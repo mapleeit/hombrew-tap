@@ -6,6 +6,6 @@ class Jsc < Formula
   sha256 ""
 
   def install
-    prefix.install Dir['jsc/*']
+    prefix.install Dir['*']
   end
 end
