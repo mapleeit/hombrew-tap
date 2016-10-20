@@ -1,8 +1,8 @@
 class Jsc < Formula
   desc ""
   homepage ""
-  url "https://github.com/mapleeit/jsc/archive/3.5.tar.gz"
-  version "3.5"
+  url "https://github.com/mapleeit/jsc/archive/3.6.tar.gz"
+  version "3.6"
   sha256 ""
 
   def install
